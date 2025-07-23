@@ -32,16 +32,9 @@ This workflow helps your organization detect and handle privacy risks by analyzi
 
 ---
 
-## 📂 Input Data Format
+## 📂 Input Data 
 
-For Example Google Sheet should include columns like:
-
-| Name       | Email              | Phone        | Notes                              |
-|------------|--------------------|--------------|------------------------------------|
-| Alice King | alice@example.com  | 555-123-4567 | Onboarding record - sensitive info |
-
-> 📝 For our practice or testing, use my dummy data sheet file.
-
+Use your own data file to test the flow
 ---
 
 ## ⚙️ Setup Instructions
